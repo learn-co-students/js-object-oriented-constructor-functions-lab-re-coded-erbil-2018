@@ -21,7 +21,7 @@ describe('objects', function() {
       expect(allison.experience).to.equal("2 years");
     });
   });
-
+ok
   describe('PickupLocation constructor', function(){
     it("should create a new PickupLocation with three properties", function(){
       let poshHotel = new PickupLocation("123 Broadway", "New York City");
